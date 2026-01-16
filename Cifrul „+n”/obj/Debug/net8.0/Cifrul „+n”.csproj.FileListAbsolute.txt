@@ -1,0 +1,14 @@
+D:\Criptografie\Cifrul „+n”\bin\Debug\net8.0\Cifrul „+n”.exe
+D:\Criptografie\Cifrul „+n”\bin\Debug\net8.0\Cifrul „+n”.deps.json
+D:\Criptografie\Cifrul „+n”\bin\Debug\net8.0\Cifrul „+n”.runtimeconfig.json
+D:\Criptografie\Cifrul „+n”\bin\Debug\net8.0\Cifrul „+n”.dll
+D:\Criptografie\Cifrul „+n”\bin\Debug\net8.0\Cifrul „+n”.pdb
+D:\Criptografie\Cifrul „+n”\obj\Debug\net8.0\Cifrul „+n”.GeneratedMSBuildEditorConfig.editorconfig
+D:\Criptografie\Cifrul „+n”\obj\Debug\net8.0\Cifrul „+n”.AssemblyInfoInputs.cache
+D:\Criptografie\Cifrul „+n”\obj\Debug\net8.0\Cifrul „+n”.AssemblyInfo.cs
+D:\Criptografie\Cifrul „+n”\obj\Debug\net8.0\Cifrul „+n”.csproj.CoreCompileInputs.cache
+D:\Criptografie\Cifrul „+n”\obj\Debug\net8.0\Cifrul „+n”.dll
+D:\Criptografie\Cifrul „+n”\obj\Debug\net8.0\refint\Cifrul „+n”.dll
+D:\Criptografie\Cifrul „+n”\obj\Debug\net8.0\Cifrul „+n”.pdb
+D:\Criptografie\Cifrul „+n”\obj\Debug\net8.0\Cifrul „+n”.genruntimeconfig.cache
+D:\Criptografie\Cifrul „+n”\obj\Debug\net8.0\ref\Cifrul „+n”.dll

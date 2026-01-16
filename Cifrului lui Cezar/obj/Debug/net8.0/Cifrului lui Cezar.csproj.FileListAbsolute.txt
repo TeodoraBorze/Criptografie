@@ -1,0 +1,14 @@
+D:\Criptografie\Cifrului lui Cezar\bin\Debug\net8.0\Cifrului lui Cezar.exe
+D:\Criptografie\Cifrului lui Cezar\bin\Debug\net8.0\Cifrului lui Cezar.deps.json
+D:\Criptografie\Cifrului lui Cezar\bin\Debug\net8.0\Cifrului lui Cezar.runtimeconfig.json
+D:\Criptografie\Cifrului lui Cezar\bin\Debug\net8.0\Cifrului lui Cezar.dll
+D:\Criptografie\Cifrului lui Cezar\bin\Debug\net8.0\Cifrului lui Cezar.pdb
+D:\Criptografie\Cifrului lui Cezar\obj\Debug\net8.0\Cifrului lui Cezar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Criptografie\Cifrului lui Cezar\obj\Debug\net8.0\Cifrului lui Cezar.AssemblyInfoInputs.cache
+D:\Criptografie\Cifrului lui Cezar\obj\Debug\net8.0\Cifrului lui Cezar.AssemblyInfo.cs
+D:\Criptografie\Cifrului lui Cezar\obj\Debug\net8.0\Cifrului lui Cezar.csproj.CoreCompileInputs.cache
+D:\Criptografie\Cifrului lui Cezar\obj\Debug\net8.0\Cifrului lui Cezar.dll
+D:\Criptografie\Cifrului lui Cezar\obj\Debug\net8.0\refint\Cifrului lui Cezar.dll
+D:\Criptografie\Cifrului lui Cezar\obj\Debug\net8.0\Cifrului lui Cezar.pdb
+D:\Criptografie\Cifrului lui Cezar\obj\Debug\net8.0\Cifrului lui Cezar.genruntimeconfig.cache
+D:\Criptografie\Cifrului lui Cezar\obj\Debug\net8.0\ref\Cifrului lui Cezar.dll

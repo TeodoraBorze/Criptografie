@@ -1,0 +1,27 @@
+﻿<Window x:Class="HashApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Hash File" Height="300" Width="500">
+
+    <StackPanel Margin="20">
+        <Button Content="Selectează fișier"
+                Click="SelectFile_Click"
+                Height="30"/>
+
+        <ComboBox x:Name="AlgoBox" Margin="0,10,0,0">
+            <ComboBoxItem Content="MD5"/>
+            <ComboBoxItem Content="SHA1"/>
+            <ComboBoxItem Content="SHA256"/>
+            <ComboBoxItem Content="SHA384"/>
+            <ComboBoxItem Content="SHA512"/>
+            <ComboBoxItem Content="RIPEMD160"/>
+        </ComboBox>
+
+        <TextBox x:Name="ResultBox"
+                 Margin="0,10,0,0"
+                 Height="80"
+                 TextWrapping="Wrap"
+                 IsReadOnly="True"/>
+    </StackPanel>
+</Window>
+

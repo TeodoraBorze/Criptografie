@@ -1,0 +1,15 @@
+D:\Criptografie\FileHashTool\bin\Debug\FileHashTool.exe.config
+D:\Criptografie\FileHashTool\bin\Debug\FileHashTool.exe
+D:\Criptografie\FileHashTool\bin\Debug\FileHashTool.pdb
+D:\Criptografie\FileHashTool\obj\Debug\FileHashTool.csproj.AssemblyReference.cache
+D:\Criptografie\FileHashTool\obj\Debug\MainWindow.baml
+D:\Criptografie\FileHashTool\obj\Debug\MainWindow.g.cs
+D:\Criptografie\FileHashTool\obj\Debug\App.g.cs
+D:\Criptografie\FileHashTool\obj\Debug\FileHashTool_MarkupCompile.cache
+D:\Criptografie\FileHashTool\obj\Debug\FileHashTool.g.resources
+D:\Criptografie\FileHashTool\obj\Debug\FileHashTool.Properties.Resources.resources
+D:\Criptografie\FileHashTool\obj\Debug\FileHashTool.csproj.GenerateResource.cache
+D:\Criptografie\FileHashTool\obj\Debug\FileHashTool.csproj.CoreCompileInputs.cache
+D:\Criptografie\FileHashTool\obj\Debug\FileHashTool.exe
+D:\Criptografie\FileHashTool\obj\Debug\FileHashTool.pdb
+D:\Criptografie\FileHashTool\obj\Debug\FileHashTool.exe.config
